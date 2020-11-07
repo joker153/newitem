@@ -20,6 +20,6 @@
 
 <p align="left">
 <a href="https://railfanningclub.travel.blog//"><img alt="Website" src="https://img.shields.io/badge/Website-https://railfanningclub.travel.blog/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.instagram.com/rail_fanning_club_rfc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rai_fanning_club_rfc-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/rail_fanning_club_rfc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rail_fanning_club_rfc-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:irfgrouppvt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-irfgrouppvt@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
